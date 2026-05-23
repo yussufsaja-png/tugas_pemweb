@@ -1,0 +1,36 @@
+/* Muhammad Yusuf Khairan_202432061 */
+
+body{
+    background: linear-gradient(
+        135deg,
+        #111111 0%,
+        #22364d 100%
+    );
+}
+
+.navbar{
+    box-shadow: 0 2px 5px rgba(0,0,0,0.4);
+}
+
+.login-box{
+    background-color: #6c757d;
+    padding: 35px;
+    border-radius: 10px;
+    width: 420px;
+}
+
+.login-box h2{
+    text-align: center;
+    margin-bottom: 25px;
+    font-weight: bold;
+    color: #1e1e1e;
+}
+
+.form-control{
+    height: 45px;
+}
+
+.btn-warning{
+    font-weight: bold;
+    height: 45px;
+}

@@ -1,0 +1,62 @@
+/* Muhammad Yusuf Khairan_202432061 */
+
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+}
+
+header{
+    background-color: #6aa3bb;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+nav{
+    margin-top: 15px;
+}
+
+nav a{
+    text-decoration: none;
+    color: white;
+    border: 1px solid white;
+    padding: 5px 10px;
+    border-radius: 4px;
+    margin: 0 2px;
+    font-size: 14px;
+}
+
+nav a.active{
+    background-color: white;
+    color: #6aa3bb;
+}
+
+main{
+    padding: 20px;
+}
+
+h2{
+    margin-bottom: 20px;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+th{
+    background-color: #6aa3bb;
+    color: white;
+    padding: 15px;
+    border: 1px solid #8ab7c8;
+}
+
+td{
+    padding: 15px;
+    border: 1px solid #cfdfe5;
+}
+
+tbody tr:nth-child(even){
+    background-color: #f9f9f9;
+}
